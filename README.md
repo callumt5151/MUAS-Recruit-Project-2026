@@ -1,5 +1,5 @@
 # MUAS-Recruit-Project-2026
-## Callum T
+_Callum T_
 Designed a simple PCB board that uses an analog MEMS microphone connected via a passive bridge-T zöbel 4kHzl high-boost filter to an STM32L432KC microcontroller. 
 
 The MCU then performs a FFT spectral analysis on the input audio (with a given sample rate and buffer size) and activates the array of 3*4 LEDs to create a 3-channel (LOW/MID/HIGH) visual equaliser as well as a 13th LED that lights when a certain dB loudness threshold is surpassed (for hearing safety). Submitted are PCB designs/schematics and code. 
