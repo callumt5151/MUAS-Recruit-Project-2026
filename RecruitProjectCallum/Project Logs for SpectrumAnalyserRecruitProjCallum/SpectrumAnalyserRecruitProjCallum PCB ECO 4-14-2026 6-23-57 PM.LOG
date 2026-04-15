@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=D4 Pin=R1-1
+Removed Pin From Net: NetName=D8 Pin=R2-1
+Removed Pin From Net: NetName=D12 Pin=R3-1
+Removed Pin From Net: NetName=D3 Pin=R5-1
+Removed Pin From Net: NetName=D7 Pin=R6-1
+Removed Pin From Net: NetName=D11 Pin=R7-1
+Removed Pin From Net: NetName=D6 Pin=R9-1
+Removed Pin From Net: NetName=D5 Pin=R12-1
+Removed Pin From Net: NetName=D9 Pin=R13-1
+Added Pin To Net: NetName=D5 Pin=R2-1
+Added Pin To Net: NetName=D9 Pin=R3-1
+Added Pin To Net: NetName=D4 Pin=R4-1
+Added Pin To Net: NetName=D6 Pin=R6-1
+Added Pin To Net: NetName=D7 Pin=R9-1
+Added Pin To Net: NetName=D11 Pin=R10-1
+Added Pin To Net: NetName=D3 Pin=R11-1
+Added Pin To Net: NetName=D8 Pin=R12-1
+Added Pin To Net: NetName=D12 Pin=R13-1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R1-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R5-1
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_13 Pin=J1-13
+Added Pin To Net: NetName=NetJ1_13 Pin=R7-1
+Added Net: Name=NetJ1_13
