@@ -11,3 +11,5 @@ Possible design improvements could be:
 1) Smaller components and MCU integration to reduce package size.
 2) Alphanumerical display to show dB loudness.
 3) Shift-register LED array so that it could have more than 3 channels.
+
+![](PCB3D.png)
