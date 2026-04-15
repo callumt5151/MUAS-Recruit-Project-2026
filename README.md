@@ -12,4 +12,8 @@ Possible design improvements could be:
 2) Alphanumerical display to show dB loudness.
 3) Shift-register LED array so that it could have more than 3 channels.
 
+
+![](PCB2D.png)
+
+
 ![](PCB3D.png)
